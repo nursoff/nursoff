@@ -1,0 +1,19 @@
+kashpa_taxi/
+├── kashpa_taxi/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user.py
+│   │   └── ride.py
+│   ├── templates/
+│   │   └── index.html
+├── tests/
+│   ├── __init__.py
+│   ├── test_app.py
+│   ├── test_models/
+│   │   ├── __init__.py
+│   │   ├── test_user.py
+│   │   └── test_ride.py
+└── README.md
+
